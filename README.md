@@ -1,7 +1,3 @@
-Here's a professional and detailed `README.md` for your Django Architecture repository:
-
----
-
 # Django-Architecture
 
 ![License](https://img.shields.io/github/license/Shavkatjon-O/Django-Architecture?style=flat-square)
@@ -173,7 +169,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## ✨ Acknowledgements
 
 Thanks to all contributors and the Django community for making this possible!
-
---- 
-
-Feel free to edit it further to suit your preferences!
